@@ -1,4 +1,4 @@
-<h1 align="center">Crypto Ocurrency Landing Page</h1>
+<h1 align="center">Crypto "Ocurrency" Landing Page</h1>
 <p align="center">
 <img src="./landing-page.png"/>
 </p>
@@ -14,7 +14,7 @@
 
 <h2>📖 About</h2>
 
-Simples Crypto Currency Landing Page.
+Simple Crypto Currency Landing Page.
 
 HTML & CSS
 Flat Illustration: Undraw.co
